@@ -35,7 +35,6 @@ public class Ball : MonoBehaviour
             LockBallToPaddle();
             LaunchOnMouseClick();
         }
-        LaunchOnMouseClick(); // TODO only debuging purposes added
     }
 
     private void LockBallToPaddle()
